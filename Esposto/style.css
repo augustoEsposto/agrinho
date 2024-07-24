@@ -1,0 +1,102 @@
+.fundo{
+    background-image: -webkit-radial-gradient(rgb(16, 71, 143), rgb(14, 46, 94), rgb(10, 36, 77));
+    margin: 0%;
+}
+
+.cab{
+    background-image: -moz-linear-gradient(black,rgb(56, 54, 54));
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgtitulo{
+    width: 10%;
+    height: 18%;
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+    font-size: 300%;
+}
+
+.subt{
+    color: rgb(255, 255, 255);
+    font-size: 200%;
+    font-style: italic;
+    margin-left: 0%;
+}
+
+.imgtitulo2{
+    width: 10%;
+    height: 18%; 
+}
+
+.texto{
+    color: rgb(255, 255, 255);
+    font-size: 150%;
+}
+
+.secab{
+    background-color: rgb(56, 54, 54);
+    padding: 1%;
+}
+
+.separacao{
+    background-color: black;
+    padding: 1%;
+}
+
+.linha{
+    display: flex;
+    margin-right: 6%;
+    color: rgb(255, 255, 255);
+}
+
+.imagens{
+    width: 28%;
+    margin-left: 4%;
+}
+
+.lista{
+    padding: 3%;
+}
+
+.rodape{
+    margin-top: 2%;
+    background-color: rgb(56, 54, 54);
+    font-size: 200%;
+}
+
+.botao{
+    font-size: 200%;
+    margin-left: 38%;
+}
+
+.link{
+    color: white;
+    margin-left: 2%;
+    text-decoration: none;
+}
+
+.contato{
+    display: flex;
+    background-color: black;
+    padding: 1%;
+}
+
+.zap{
+    width: 4%;
+    height: 4%;
+    margin-left: 35%;
+}
+
+.fone{
+    margin-left: 1%;
+    color: white;
+    font-size: 150%;
+}
+
+.pag2{
+    padding: 0%;
+}
+
